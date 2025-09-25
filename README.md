@@ -26,6 +26,7 @@ Actualmente trabajo como **Consultor de IA en Servinform**, donde diseño y desp
   <!-- Lenguajes -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
 
   <!-- IA / ML -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />

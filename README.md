@@ -4,19 +4,20 @@
 </p>
 
 <h1 align="center">👋 Hola, soy José Ruiz López</h1>
-<h3 align="center">🚀 Data Scientist | AI Consultant | Master’s student in Data Science and Computer Engineering</h3>
+<h3 align="center">🚀 AI Engineer & Consultant | LLM Systems | Backend · Master's student in Data Science & Computer Engineering</h3>
 
 ---
 
 ### 🔬 Sobre mí
-Soy **Data Scientist** con experiencia en **IA Generativa, NLP y optimización de datos**.  
-Actualmente trabajo como **Consultor de IA en Servinform**, donde diseño y despliego soluciones de **Machine Learning** y **Deep Learning** para distintos clientes.  
+Soy **Ingeniero y Consultor de IA** especializado en el diseño y desarrollo end-to-end de sistemas LLM listos para producción.  
+Actualmente trabajo como **Consultor de IA en Servinform**, construyendo pipelines de LLM balanceados, agentes conversacionales empresariales y arquitecturas asíncronas en Django.  
 
 📌 Intereses:
-- 🧠 Algoritmos meméticos y metaheurísticas aplicados a Deep Learning  
-- 🤖 Modelos de lenguaje (LLMs, RAG, Fine-tuning)  
-- 🌐 Infraestructura en la nube (Google Cloud, CI/CD, Docker)  
-- 📊 Aplicaciones prácticas de la IA en educación, finanzas y sistemas complejos  
+- ⚡ Sistemas de balanceo de carga y orquestación de LLMs a gran escala  
+- 🤖 Agentes conversacionales con arquitecturas orientadas a herramientas  
+- 🔍 RAG, Fine-tuning y optimización de modelos de lenguaje  
+- 🌐 Infraestructura en la nube (Azure, Google Cloud, Docker, CI/CD)  
+- 🎮 IA aplicada a videojuegos  
 
 ---
 
@@ -47,7 +48,10 @@ Actualmente trabajo como **Consultor de IA en Servinform**, donde diseño y desp
   <img src="https://img.shields.io/badge/ElasticSearch-005571?logo=elasticsearch&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pinecone-3776AB?logo=vectorworks&logoColor=white&style=for-the-badge" />
 
-  <!-- Infraestructura / DevOps -->
+  <!-- Cloud / Infraestructura / DevOps -->
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure%20Speech-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
@@ -64,11 +68,32 @@ Actualmente trabajo como **Consultor de IA en Servinform**, donde diseño y desp
 ---
 
 ### 📂 Proyectos Destacados
+
+- ⚡ **Sistema de balanceo de carga para LLMs** (Servinform)  
+  Arquitectura desde cero con dispatching asíncrono y colas prioritarias. Redujo procesos batch de **8h → 2h (×4 eficiencia)**.  
+  *Stack: Python, Django async, colas prioritarias, Azure OpenAI*
+
+- 🤖 **Agente conversacional empresarial** (Servinform)  
+  Arquitectura orientada a herramientas con respuestas fundamentadas exclusivamente en datos reales del sistema.  
+  *Stack: LangChain/LangGraph, LLMs, integración con sistemas internos*
+
+- 🎙️ **Sistema de análisis automático de llamadas** (Servinform)  
+  Integración de Azure Speech para transcripción + evaluación LLM + detección por reglas para verificación de calidad.  
+  *Stack: Azure Speech, Python, Django, LLMs*
+
 - 🔬 **TFG – Algoritmos meméticos para reducir datos de entrenamiento en Deep Learning**  
   Optimización de CNNs mediante selección inteligente de instancias y aumento de datos.  
   *Keywords: IA, Deep Learning, Algoritmos Evolutivos, Reducción de Datos*
 
-- 🤖 **IA Generativa para EdTech** (EDUCA EDTECH Group)  
+- 🕸️ **Dark Souls Character Network**  
+  Crawler web + constructor de redes para la trilogía completa (DS1, DS2, DS3 + DLCs). Raspa wikis de Fextralife, extrae NPCs y jefes, calcula pesos de co-mención entre personajes y exporta grafos no dirigidos listos para Gephi o NetworkX. 228 nodos · 589 aristas.  
+  *Stack: Python, BeautifulSoup, Pandas, cloudscraper, Gephi / NetworkX*
+
+- 🎮 **Learned Dark** — Roguelike de horror cósmico  
+  Juego en desarrollo en solitario con Unity 6 (perspectiva isométrica). El horror tiene **memoria persistente entre runs** y el jugador aprende sus patrones para derrotarlo. Incluye **AtlasAI**: pipeline LLM que analiza el comportamiento del jugador a través de runs y genera síntesis de patrones.  
+  *Stack: Unity 6, C#, LLMs, A\* pathfinding, Fog of War*
+
+- 📚 **IA Generativa para EdTech** (EDUCA EDTECH Group)  
   - Fine-tuning de LLaMA y despliegue en **Google Cloud**  
   - Pipelines de RAG con **ElasticSearch + Pinecone**  
   - Asistente SEO basado en IA para mejorar posicionamiento web  

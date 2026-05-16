@@ -114,6 +114,7 @@ Actualmente trabajo como **Consultor de IA en Servinform**, construyendo pipelin
 
 ### 📬 Contacto
 <p align="center">
+  <a href="https://inferencejrl.dev/"><img src="https://img.shields.io/badge/Web-inferencejrl.dev-000000?logo=firefox&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/ruiz-lopez-jose/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:ruizlopezjose24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>

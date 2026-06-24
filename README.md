@@ -1,35 +1,35 @@
-<!-- Banner animado -->
+<!-- Animated banner -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<h1 align="center">👋 Hola, soy José Ruiz López</h1>
+<h1 align="center">👋 Hi, I'm José Ruiz López</h1>
 <h3 align="center">🚀 AI Engineer & Consultant | LLM Systems | Backend · Master's student in Data Science & Computer Engineering</h3>
 
 ---
 
-### 🔬 Sobre mí
-Soy **Ingeniero y Consultor de IA** especializado en el diseño y desarrollo end-to-end de sistemas LLM listos para producción.  
-Actualmente trabajo como **Consultor de IA en Servinform**, construyendo pipelines de LLM balanceados, agentes conversacionales empresariales y arquitecturas asíncronas en Django.  
+### 🔬 About me
+I'm an **AI Engineer & Consultant** specializing in end-to-end design and development of production-ready LLM systems.  
+Currently working as an **AI Consultant at Servinform**, building balanced LLM pipelines, enterprise conversational agents, and asynchronous architectures in Django.
 
-📌 Intereses:
-- ⚡ Sistemas de balanceo de carga y orquestación de LLMs a gran escala  
-- 🤖 Agentes conversacionales con arquitecturas orientadas a herramientas  
-- 🔍 RAG, Fine-tuning y optimización de modelos de lenguaje  
-- 🌐 Infraestructura en la nube (Azure, Google Cloud, Docker, CI/CD)  
-- 🎮 IA aplicada a videojuegos  
+📌 Interests:
+- ⚡ Load balancing systems and large-scale LLM orchestration  
+- 🤖 Conversational agents with tool-oriented architectures  
+- 🔍 RAG, Fine-tuning and language model optimization  
+- 🌐 Cloud infrastructure (Azure, Google Cloud, Docker, CI/CD)  
+- 🎮 AI applied to video games  
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Tech Stack
 <p align="center">
 
-  <!-- Lenguajes -->
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
 
-  <!-- IA / ML -->
+  <!-- AI / ML -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/HuggingFace-FFBF00?logo=huggingface&logoColor=white&style=for-the-badge" />
@@ -43,12 +43,12 @@ Actualmente trabajo como **Consultor de IA en Servinform**, construyendo pipelin
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
 
-  <!-- Bases de Datos y Búsqueda -->
+  <!-- Databases & Search -->
   <img src="https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/ElasticSearch-005571?logo=elasticsearch&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pinecone-3776AB?logo=vectorworks&logoColor=white&style=for-the-badge" />
 
-  <!-- Cloud / Infraestructura / DevOps -->
+  <!-- Cloud / Infrastructure / DevOps -->
   <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Azure%20Speech-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
@@ -67,40 +67,49 @@ Actualmente trabajo como **Consultor de IA en Servinform**, construyendo pipelin
 
 ---
 
-### 📂 Proyectos Destacados
+### 📂 Featured Projects
 
-- ⚡ **Sistema de balanceo de carga para LLMs** (Servinform)  
-  Arquitectura desde cero con dispatching asíncrono y colas prioritarias. Redujo procesos batch de **8h → 2h (×4 eficiencia)**.  
-  *Stack: Python, Django async, colas prioritarias, Azure OpenAI*
+- ⚡ **LLM Load Balancing System** (Servinform)  
+  Architecture built from scratch with async dispatching and priority queues. Reduced batch processes from **8h → 2h (×4 efficiency)**.  
+  *Stack: Python, Django async, priority queues, Azure OpenAI*
 
-- 🤖 **Agente conversacional empresarial** (Servinform)  
-  Arquitectura orientada a herramientas con respuestas fundamentadas exclusivamente en datos reales del sistema.  
-  *Stack: LangChain/LangGraph, LLMs, integración con sistemas internos*
+- 🤖 **Enterprise Conversational Agents** (Servinform)  
+  Tool-oriented architectures with responses grounded exclusively in real system data.   
+  *Stack: LangChain/LangGraph, LLMs, internal systems integration*
 
-- 🎙️ **Sistema de análisis automático de llamadas** (Servinform)  
-  Integración de Azure Speech para transcripción + evaluación LLM + detección por reglas para verificación de calidad.  
+- 🎙️ **Automatic Call Analysis System** (Servinform)  
+  Azure Speech integration for transcription + LLM evaluation + rule-based detection for quality verification.  
   *Stack: Azure Speech, Python, Django, LLMs*
 
-- 🔬 **TFG – Algoritmos meméticos para reducir datos de entrenamiento en Deep Learning**  
-  Optimización de CNNs mediante selección inteligente de instancias y aumento de datos.  
-  *Keywords: IA, Deep Learning, Algoritmos Evolutivos, Reducción de Datos*
+- 🔬 **Bachelor's Thesis – Memetic Algorithms to Reduce Training Data in Deep Learning**  
+  CNN optimization through intelligent instance selection and data augmentation.  
+  *Keywords: AI, Deep Learning, Evolutionary Algorithms, Data Reduction*
 
 - 🕸️ **Dark Souls Character Network**  
-  Crawler web + constructor de redes para la trilogía completa (DS1, DS2, DS3 + DLCs). Raspa wikis de Fextralife, extrae NPCs y jefes, calcula pesos de co-mención entre personajes y exporta grafos no dirigidos listos para Gephi o NetworkX. 228 nodos · 589 aristas.  
+  Web crawler + network builder for the full trilogy (DS1, DS2, DS3 + DLCs). Scrapes Fextralife wikis, extracts NPCs and bosses, computes co-mention weights between characters, and exports undirected graphs ready for Gephi or NetworkX. 228 nodes · 589 edges.  
   *Stack: Python, BeautifulSoup, Pandas, cloudscraper, Gephi / NetworkX*
 
-- 🎮 **Learned Dark** — Roguelike de horror cósmico  
-  Juego en desarrollo en solitario con Unity 6 (perspectiva isométrica). El horror tiene **memoria persistente entre runs** y el jugador aprende sus patrones para derrotarlo. Incluye **AtlasAI**: pipeline LLM que analiza el comportamiento del jugador a través de runs y genera síntesis de patrones.  
-  *Stack: Unity 6, C#, LLMs, A\* pathfinding, Fog of War*
+- 🎮 **Learned Dark** - Cosmic Horror Roguelike  
+  Solo-developed 2D top-down game (Unity 6, URP). You can't kill the horror - you study it, find its **persistent error**, and defeat it architecturally. The horror's behavior is driven by a custom **Gene Regulatory Network** (not weights, not neural nets): genes mutate between generations, connections between them activate or suppress behaviors, and the dungeons you build epigenetically modify its expression - building the same layout repeatedly trains it against you. Perception runs on a 3-layer model (vision cone + peripheral radius + sound propagation) integrated with a full Fog of War system. **AtlasAI** distills run data through three layers - anomaly detection, DBSCAN clustering, and a GPT-4o-mini synthesis call - to surface the horror's hidden flaw across generations.  
+  *Stack: Unity 6 LTS, C#, URP 2D, A\* pathfinding, custom GRN, OpenAI GPT-4o-mini, New Input System*
 
-- 📚 **IA Generativa para EdTech** (EDUCA EDTECH Group)  
-  - Fine-tuning de LLaMA y despliegue en **Google Cloud**  
-  - Pipelines de RAG con **ElasticSearch + Pinecone**  
-  - Asistente SEO basado en IA para mejorar posicionamiento web  
+- 🌐 **Personal Portfolio** ([inferencejrl.dev](https://inferencejrl.dev))  
+  Bilingual (ES/EN) portfolio with an embedded AI chat agent: streams responses via SSE, calls live GitHub tools (repo listing, file tree, file reading) to answer questions about my projects in real time. Includes booking calendar integration and downloadable CV in both languages.  
+  *Stack: React 18, TypeScript, Vite, Cloudflare Pages, OpenAI GPT-4o-mini, SSE streaming, GitHub API*
+
+- 📚 **AI, Data Engineering & Analytics** (EDUCA EDTECH Group · 2 years)  
+  Full-cycle data role spanning Generative AI, data engineering pipelines, and web analytics.  
+  - **Generative AI:** Fine-tuned LLaMA locally and deployed on **Google Cloud**, cutting content generation costs. Built content generation pipelines with **ChatGPT / Gemini** and web scraping for keyword/FAQ extraction.  
+  - **Search & RAG:** NLP similarity detection between blogs using **ElasticSearch**; RAG pipelines with **Pinecone** for course indexing. Standardized NLP processes company-wide.  
+  - **AI SEO Assistant:** LLM-powered tool that recommended high-ranking keywords and FAQs and matched them to internal URLs, improving search engine visibility.  
+  - **Data Engineering:** Designed and built **ETL pipelines in BigQuery** from scratch (ingestion + transformation). Implemented **Akamai ETL** to collect and centralize web visit data across the company's ecosystem.  
+  - **Data Analysis:** Analysed user behaviour and content performance via **Looker**, **Semrush**, and **Screaming Frog**; insights fed directly into content and SEO strategy.  
+  - **Backend:** Designed and deployed **FastAPI** services following Agile methodologies; built ElasticSearch web-crawling indices for inaccessible page discovery.  
+  *Stack: Python, LLaMA, ChatGPT/Gemini, ElasticSearch, Pinecone, LangChain, BigQuery, FastAPI, Google Cloud, Akamai, Looker, Semrush*
 
 ---
 
-### 📊 Estadísticas
+### 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoseRuizLopez&show_icons=true&theme=radical&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseRuizLopez&layout=compact&theme=radical&hide_border=true" height="180" />
@@ -112,7 +121,7 @@ Actualmente trabajo como **Consultor de IA en Servinform**, construyendo pipelin
 
 ---
 
-### 📬 Contacto
+### 📬 Contact
 <p align="center">
   <a href="https://inferencejrl.dev/"><img src="https://img.shields.io/badge/Web-inferencejrl.dev-000000?logo=firefox&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/ruiz-lopez-jose/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
@@ -120,4 +129,4 @@ Actualmente trabajo como **Consultor de IA en Servinform**, construyendo pipelin
 </p>
 
 ---
-⭐️ *Si te gusta mi trabajo, considera dar ⭐ a mis repositorios.*
+⭐️ *If you like my work, consider giving ⭐ to my repositories.*
